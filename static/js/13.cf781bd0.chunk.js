@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{55:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),r=t(11);n.default=function(){return o.a.createElement("div",{className:"not_found_con"},o.a.createElement("h1",{style:{textTransform:"uppercase",fontSize:"3rem"}},"404 Page Not Found"),o.a.createElement(r.Link,{to:"/"},"GO BACK"))}}}]);
-//# sourceMappingURL=13.cf781bd0.chunk.js.map
